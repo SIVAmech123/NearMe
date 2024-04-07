@@ -95,8 +95,7 @@ Y Co-ordinate <input type="text" name="" id="text2">
 
 ```
 
-## OUTPUT
-![alt text](img1.png)
+## OUTPUT:
 
 
 ![alt text](img2.png)
