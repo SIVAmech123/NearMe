@@ -25,8 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
-
+```
 <!DOCTYPE html>
 
 <html lang ="en">
@@ -94,6 +93,7 @@ Y Co-ordinate <input type="text" name="" id="text2">
 
 </html>
 
+```
 
 ## OUTPUT
 ![alt text](img1.png)
