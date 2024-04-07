@@ -97,12 +97,25 @@ Y Co-ordinate <input type="text" name="" id="text2">
 
 ## OUTPUT
 ![alt text](img1.png)
+
+
 ![alt text](img2.png)
+
+
 ![alt text](img3.png)
+
+
 ![alt text](img4.png)
+
+
 ![alt text](img5.png)
+
+
 ![alt text](img6.png)
+
+
 ![alt text](img7.png)
+
 
 ## RESULT
 
